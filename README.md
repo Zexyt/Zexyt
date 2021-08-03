@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zexyt
 - 👀 I’m interested in learning new topics and hoping to make something big in the future that will make the difference
 - 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on simple projects that can improve my skills
 - 📫 How to reach me jklechrg@gmail.com or jklechrg@uol.com.br
 
 <!---
