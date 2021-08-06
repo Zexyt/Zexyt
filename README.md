@@ -2,4 +2,3 @@
 - 🎓 Currently studying Computer Science
 - 👨🏻‍💻 Currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on simple projects that can improve my skills
-- 📫 You can reach me at jklechrg@gmail.com or jklechrg@uol.com.br
